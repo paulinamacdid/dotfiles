@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = git config --global user.name \"Paulina Macdid\"
-	name = Paulina Macdid paulinamacdid@hotmail.co.uk
+	email = paulinamacdid@hotmail.co.uk
+	name = Paulina Macdid
